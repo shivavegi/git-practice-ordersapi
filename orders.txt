@@ -1,1 +1,2 @@
 Initial Orders API Setup
+Added GetAll Orders endpoint
